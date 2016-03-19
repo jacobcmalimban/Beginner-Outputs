@@ -1,4 +1,4 @@
-# Random-Outputs
+# The-Green-Garden
 ###### Header 6
 **INFO**
 * Abs.java is an abstract class with no purpose
@@ -11,7 +11,7 @@
 * Maze_Methology.java contains the methods for Amazing.
 * NT.java is the new things - to me atleast. Again, they are methods. Inherits FS.java
 * Names.java is a standalone program.
-* README.md is [_this_](https://github.com/jacobyprogramming/Nonsensical-Outputs/blob/master/README.md) file.
+* README.md is [_this_](https://github.com/jacobcmalimban/The-Green-Garden/blob/master/README.md) file.
 * Strings.java shows strange strings things.
 
 __Checklist__
@@ -23,7 +23,7 @@ __Checklist__
 
 Visual:
 
-![Novel](https://github.com/jacobyprogramming/Nonsensical-Outputs/blob/master/Nice%20Visual.png)
+![Novel](https://github.com/jacobcmalimban/The-Green-Garden/blob/master/Nice%20Visual.png)
 
 Note that ReadFile.java and WriteTestFile.java are in IO
 
