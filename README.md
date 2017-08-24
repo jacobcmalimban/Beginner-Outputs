@@ -3,7 +3,6 @@
 **INFO**
 * Abs.java is an abstract class with no purpose
 * Amazing.java uses FS.java and Maze_Methology to create a maze with no walls
-* Contact.java is there, I guess. Not even my code.
 * FS.java is fun stuff: methods. Most of the stuff in here uses it.
 * Hiragana.java is all the hiragana in romaji in java. Uses FS.java.
 * Interface.java is a java interface.
@@ -13,9 +12,7 @@
 * NT.java is the new things - to me atleast. Again, they are methods. Inherits FS.java
 * Names.java is a standalone program.
 * README.md is [_this_](https://github.com/jacobyprogramming/Nonsensical-Outputs/blob/master/README.md) file.
-* ReadFile.java is _not my code_, but it shows how to read a file.
 * Strings.java shows strange strings things.
-- WriteTestFile.java *is not my code*, but it shows how to write to a file.
 
 __Checklist__
 - [x] Add files
