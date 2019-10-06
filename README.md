@@ -23,7 +23,7 @@ __Checklist__
 
 Visual:
 
-![Novel](https://github.com/jacobyprogramming/Nonsensical-Outputs/blob/master/Nice%20Visual.png)
+![Novel](https://github.com/jacobcmalimban/Nonsensical-Outputs/blob/master/Nice%20Visual.png)
 
 Note that ReadFile.java and WriteTestFile.java are in IO
 
