@@ -1,4 +1,4 @@
-# Random-Outputs
+# Beginner-Outputs
 ###### Header 6
 **INFO**
 * Abs.java is an abstract class with no purpose
